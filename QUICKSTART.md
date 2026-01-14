@@ -130,11 +130,8 @@
 TODO-App/
 ├── src/
 │   ├── main_advanced.py       (Main application - RECOMMENDED)
-│   └── main.py                (Basic version)
-├── dist/
-│   └── TODO-App.exe           (Built executable)
 ├── requirements.txt           (Python dependencies)
-├── setup_and_build.bat        (First-time setup & build)
+├── build_fixed.bat        (First-time setup & build)
 ├── build_quick.bat            (Quick rebuild)
 ├── README.md                  (Full documentation)
 └── QUICKSTART.md              (This file)
